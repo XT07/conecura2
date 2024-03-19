@@ -42,8 +42,8 @@ p {
     font-size: 30px;
 }
 .backImg {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.9),
-    rgba(0, 0, 0, 0.9)), 
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5),
+    rgba(0, 0, 0, 0.5)),
     url(../img/pessoa_aplicando.jpg);
     background-repeat: no-repeat;
     background-size: cover;
@@ -67,8 +67,8 @@ p {
     margin: auto;
 }
 .aboutConeIndu {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.9),
-    rgba(0, 0, 0, 0.9)),
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5),
+    rgba(0, 0, 0, 0.5)),
     url(../img/tranquilidade.jpg);
     background-repeat: no-repeat;
     background-size: cover;
@@ -89,8 +89,8 @@ p {
 .hist {
     width: 100%;
     height: 100vh;
-    background-image: linear-gradient(rgba(0, 0, 0, 0.9),
-    rgba(0, 0, 0, 0.9)),
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5),
+    rgba(0, 0, 0, 0.5)),
     url(../img/hist.jpg);
     background-repeat: no-repeat;
     background-size: cover;
@@ -106,8 +106,8 @@ p {
     width: 100%;
     height: 100vh;
     display: flex;
-    background-image: linear-gradient(rgba(0, 0, 0, 0.9),
-    rgba(0, 0, 0, 0.9)),
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5),
+    rgba(0, 0, 0, 0.5)),
     url(../img/contact.jpg);
     background-repeat: no-repeat;
     background-size: cover;
